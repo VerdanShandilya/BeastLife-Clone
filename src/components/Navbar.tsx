@@ -24,7 +24,7 @@ export const Navbar = () => {
             <div className="w-10 h-10 bg-red-600 rounded-full flex items-center justify-center font-bold text-xl">
               M
             </div>
-            <span className="text-xl font-bold">MuscleBlazer</span>
+            <span className="text-xl font-bold">BeastLife</span>
           </Link>
 
           <div className="hidden md:flex items-center space-x-8">
